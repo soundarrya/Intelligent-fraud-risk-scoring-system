@@ -2,15 +2,15 @@
 
 This project demonstrates a full Business Analyst case study including:
 
-✔ BRD  
-✔ FRD  
-✔ SRS  
-✔ User Stories  
-✔ Acceptance Criteria  
-✔ UAT  
-✔ Use Case Diagram  
-✔ Fraud Rules & Risk Scoring  
-✔ Real-time Fraud Prevention Workflow  
+* BRD  
+* FRD  
+* SRS  
+*  User Stories  
+* Acceptance Criteria  
+* UAT  
+* Use Case Diagram  
+* Fraud Rules & Risk Scoring  
+* Real-time Fraud Prevention Workflow  
 
 ---
 
